@@ -1,0 +1,17 @@
+# Cloudflare Pages / Netlify redirect rules — keeps any old .html links working
+/index.html               /                          301
+/about.html                /about/                    301
+/projects.html              /projects/                 301
+/experience.html            /experience/               301
+/research.html               /research/                 301
+/achievements.html            /achievements/             301
+/resume.html                 /resume/                   301
+/cv.html                     /cv/                       301
+/contact.html                 /contact/                  301
+/projects/agrismart.html                /projects/agrismart/               301
+/projects/ai-content-moderation.html     /projects/ai-content-moderation/   301
+/projects/foodbank.html                 /projects/foodbank/                301
+/projects/asgt.html                     /projects/asgt/                    301
+/projects/smartvillages.html            /projects/smartvillages/           301
+/projects/breathe.html                  /projects/breathe/                 301
+/projects/spl-quantum.html              /projects/spl-quantum/             301
